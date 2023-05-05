@@ -5,4 +5,42 @@
   A Video Club database project that can organize your store.
 </div>
 
-# <img src="files/images/about.gif" alt="About">
+<!-- TABLE OF CONTENTS -->
+### <p align="center"><a href="#about">About</a> - <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!-- ABOUT -->
+# <div name="about"><img src="files/images/about.gif" alt="about"></div>
