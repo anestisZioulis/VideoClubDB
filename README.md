@@ -6,41 +6,10 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-### <p align="center"><a href="#about">About</a> - <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></p>
+<div align="center"><a href="#about"><img src="files/images/about.gif" alt="about" width="80"></a> / <a href="#demo">Demo</a> - <a href="#installation">Installation</a> - <a href="#algorithms">Algorithms</a> - <a href="#tools">Tools</a> - <a href="#sources">Sources</a></div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 <!-- ABOUT -->
 # <div name="about"><img src="files/images/about.gif" alt="about"></div>
+
